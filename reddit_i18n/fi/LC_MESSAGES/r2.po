@@ -100,7 +100,7 @@ msgstr "liikaa kuvia (saat vain %d)"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Virheellinen kuvatiedosto"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -116,15 +116,15 @@ msgstr "sähköposti lähetetään tuotapikaa antamaasi osoitteeseen"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "yritä huomenna uudelleen"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "CSS-luokka ei kelpaa"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "liian monta CSS-luokkaa"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "et voi lähettää blokkaamallesi käyttäjälle"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -227,11 +227,11 @@ msgstr "et voi tehdä tuota"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "olet kirjautuneena eri tunnuksella"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "linkki johon kommentoit on poistettu"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
@@ -239,11 +239,11 @@ msgstr "tuo kommentti on poistettu"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "tämä elementti on poistettu"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "salasanaa ei voida hyväksyä"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -288,7 +288,7 @@ msgstr "luku ei ole vaaditulla välillä (%(min)d - %(max)d)"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "käyttämäsi merkki ei kelpaa"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -315,7 +315,7 @@ msgstr "sinulla ei ole lupaa postata tänne"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "määrittele subreddit"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -324,7 +324,7 @@ msgstr "tuo nimi ei tule toimimaan"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "lisäät liian usein. yritä uudelleen %(time)s."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -398,27 +398,27 @@ msgstr "tähän tarvitaan jotain"
 
 #: r2/controllers/errors.py:82
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "emme ole nähneet tätä koodia ennen"
 
 #: r2/controllers/errors.py:83
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "tämä koodi on jo käytetty -- ehkä sen käytit sinä?"
 
 #: r2/controllers/errors.py:84
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "tämä reddit ei hyväksy kirjoitettuja viestejä"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "tämä reddit hyväksyy vain kirjoitetut viestit"
 
 #: r2/controllers/errors.py:86
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "tämä on historiaa; liian myöhäistä vastata enää"
 
 #: r2/controllers/errors.py:87
 msgid "invalid css name"
-msgstr ""
+msgstr "virheellinen CSS-nimi"
 
 #: r2/controllers/errors.py:88
 msgid "too many flair css classes"
@@ -426,11 +426,11 @@ msgstr ""
 
 #: r2/controllers/errors.py:89
 msgid "invalid client id"
-msgstr ""
+msgstr "virheellinen käyttäjätunnus"
 
 #: r2/controllers/errors.py:90
 msgid "access denied by the user"
-msgstr ""
+msgstr "käyttäjä on estänyt pääsyn"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
@@ -450,27 +450,27 @@ msgstr ""
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "ei kommentteja (vielä)"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "kaikki %d kommentit"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "parhaat %d kommentit"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "näytä kaikki %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "näytä %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -478,7 +478,7 @@ msgstr "luo uusi reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "luo yhteisö"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -523,24 +523,24 @@ msgstr "tervetuloa takaisin"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "kiitos"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit kulta"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "hyvä yritys."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "kulta on toimitettu!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "kiitoksia reddit kullan ostamista!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
@@ -557,7 +557,7 @@ msgstr ""
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Lahjasi %s lle on toimitettu"
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -647,11 +647,11 @@ msgstr "kommentit"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Henkilöllisyyteni"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Pääsy käyttäjänimeeni ja kirjautumispäivään"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -723,7 +723,7 @@ msgstr "jos tarvitset kenoviivoja, et oikein osaa"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[poistettu]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
@@ -847,7 +847,7 @@ msgstr "omat asetukset"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "blogi"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:424
 msgid "logout"
@@ -855,11 +855,11 @@ msgstr "kirjaudu ulos"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "ota yhteyttä"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "firefox laajennus"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -883,11 +883,11 @@ msgstr "kauppa"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "mainosta"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "subreddit"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:317
 msgid "options"
@@ -954,7 +954,7 @@ msgstr "tietoja"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr ""
+msgstr "muokkaa tilauksia"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
@@ -971,7 +971,7 @@ msgstr ""
 
 #: r2/lib/menus.py:131
 msgid "edit approved submitters"
-msgstr ""
+msgstr "editoi hyväksyttyjä lisääjiä"
 
 #: r2/lib/menus.py:132 r2/lib/menus.py:133 r2/lib/pages/pages.py:2755
 msgid "ban users"
@@ -1000,11 +1000,11 @@ msgstr "virheet"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "mainokset"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "käyttö"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
@@ -1073,11 +1073,11 @@ msgstr "kaikki kuulutetut linkit"
 
 #: r2/lib/menus.py:164
 msgid "unseen"
-msgstr ""
+msgstr "ei nähty"
 
 #: r2/lib/menus.py:165
 msgid "roadblock"
-msgstr ""
+msgstr "hidaste"
 
 #: r2/lib/menus.py:166
 msgid "analytics"
@@ -1353,7 +1353,7 @@ msgstr ""
 #: r2/lib/strings.py:86
 #, python-format
 msgid "visit [%(link)s](%(link)s) for more information"
-msgstr ""
+msgstr "klikkaa [%(link)s](%(link)s) saadaksesi lisätietoja"
 
 #: r2/lib/strings.py:90
 #, python-format
@@ -1363,7 +1363,7 @@ msgstr "sinut on lisätty moderaattoriksi [ %(title)s ]( %(url)s ):hen"
 #: r2/lib/strings.py:91
 #, python-format
 msgid "you have been added as an approved submitter to [%(title)s](%(url)s)."
-msgstr ""
+msgstr "sinut on hyväksytty lisääjäksi [%(title)s](%(url)s)"
 
 #: r2/lib/strings.py:92
 #, python-format
@@ -1383,7 +1383,7 @@ msgstr "olet moderaattori"
 
 #: r2/lib/strings.py:99
 msgid "you are an approved submitter"
-msgstr ""
+msgstr "olet hyväksytty lisääjä"
 
 #: r2/lib/strings.py:100
 msgid "you've been banned"
@@ -1403,7 +1403,7 @@ msgstr "alla redditit jotka olet tilannut"
 
 #: r2/lib/strings.py:107
 msgid "below are the reddits that you are an approved submitter on."
-msgstr ""
+msgstr "voit lisätä alla oleviin redditteihin"
 
 #: r2/lib/strings.py:108
 msgid "below are the reddits that you have moderator access to."
@@ -1518,20 +1518,20 @@ msgstr ""
 
 #: r2/lib/strings.py:135
 msgid "we're going to need to verify your email address for you to proceed."
-msgstr ""
+msgstr "voit jatkaa kun emailisi on vahvistettu"
 
 #: r2/lib/strings.py:136
 msgid ""
 "you'll be able to submit more frequently once you verify your email address"
-msgstr ""
+msgstr "voit postittaa useammin kun olet vahvistanut email-osoitteesi"
 
 #: r2/lib/strings.py:137
 msgid "your email address has been verfied"
-msgstr ""
+msgstr "emailisi on vahvistettu"
 
 #: r2/lib/strings.py:138
 msgid "Verification failed.  Please try that again"
-msgstr ""
+msgstr "Vahvistaminen epäonnistui. Yritä uudelleen"
 
 #: r2/lib/strings.py:139
 #, python-format
@@ -1550,11 +1550,11 @@ msgstr ""
 
 #: r2/lib/strings.py:141
 msgid "I couldn't understand your search query. Please try again."
-msgstr ""
+msgstr "Hakulausetta ei ymmärretty, yritä uudelleen."
 
 #: r2/lib/strings.py:142
 msgid "You've submitted too many links recently. Please try again in an hour."
-msgstr ""
+msgstr "Olet linkittänyt liian usein liian nopeasti. Yritä uudelleen tunnin kuluttua."
 
 #: r2/lib/strings.py:143
 #, python-format
@@ -1608,7 +1608,7 @@ msgstr ""
 #: r2/lib/strings.py:150
 #, python-format
 msgid "Sorry, the maximum number of comments is %d."
-msgstr ""
+msgstr "kommenttien maksimiminäärä on %d."
 
 #: r2/lib/strings.py:151
 #, python-format
@@ -1731,8 +1731,8 @@ msgstr[1] "tilaajaa"
 #: r2/templates/subreddit.html:82
 msgid "approved submitter"
 msgid_plural "approved submitters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "hyväksytty lisääjä"
+msgstr[1] "hyväksytyt lisääjät"
 
 #: r2/lib/strings.py:241 r2/templates/subreddit.html:75
 msgid "moderator"
@@ -1807,7 +1807,7 @@ msgstr "%d.%m.%Y"
 
 #: r2/lib/pages/pages.py:235
 msgid "these reddits"
-msgstr ""
+msgstr "nämä redditit"
 
 #: r2/lib/pages/pages.py:245
 msgid "Submit a link"
@@ -1815,7 +1815,7 @@ msgstr "lisää linkki"
 
 #: r2/lib/pages/pages.py:255
 msgid "Create your own community"
-msgstr ""
+msgstr "Luo oma yhteisösi"
 
 #: r2/lib/pages/pages.py:261
 msgid "reddit gold creddits: now for sale!"
@@ -1843,27 +1843,27 @@ msgstr "etiketti"
 
 #: r2/lib/pages/pages.py:425
 msgid "chrome extension"
-msgstr ""
+msgstr "chrome laajennus"
 
 #: r2/lib/pages/pages.py:429
 msgid "tools"
-msgstr ""
+msgstr "työkalut"
 
 #: r2/lib/pages/pages.py:436
 msgid "redditgifts"
-msgstr ""
+msgstr "redditlahjat"
 
 #: r2/lib/pages/pages.py:437
 msgid "reddit.tv"
-msgstr ""
+msgstr "reddit.tv"
 
 #: r2/lib/pages/pages.py:438
 msgid "radio reddit"
-msgstr ""
+msgstr "reddit radio"
 
 #: r2/lib/pages/pages.py:440
 msgid "<3"
-msgstr ""
+msgstr "<3"
 
 #: r2/lib/pages/pages.py:622
 #, python-format
@@ -1911,11 +1911,11 @@ msgstr "palkinnon arvoinen suoritus"
 
 #: r2/lib/pages/pages.py:1200
 msgid "an unknown amount"
-msgstr ""
+msgstr "tuntematon määrä"
 
 #: r2/lib/pages/pages.py:1208
 msgid "less than a day"
-msgstr ""
+msgstr "alle päivä"
 
 #: r2/lib/pages/pages.py:1217
 #, python-format
@@ -1924,11 +1924,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:1220
 msgid "renew your reddit gold"
-msgstr ""
+msgstr "uudista reddit kultasi"
 
 #: r2/lib/pages/pages.py:1223
 msgid "treat yourself to reddit gold"
-msgstr ""
+msgstr "hanki reddit kultaa"
 
 #: r2/lib/pages/pages.py:1258
 msgid "page not found"
@@ -1941,12 +1941,12 @@ msgstr "tuo on kielletty sinulta."
 #: r2/lib/pages/pages.py:1397
 #, python-format
 msgid "raise it to %s"
-msgstr ""
+msgstr "nosta %s"
 
 #: r2/lib/pages/pages.py:1399 r2/lib/pages/pages.py:1408
 #, python-format
 msgid "%s visible"
-msgstr ""
+msgstr "%s näkyvä"
 
 #: r2/lib/pages/pages.py:1406
 #, python-format
@@ -1980,15 +1980,15 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:2658
 msgid "user"
-msgstr ""
+msgstr "käyttäjä"
 
 #: r2/lib/pages/pages.py:2658
 msgid "note"
-msgstr ""
+msgstr "huomio"
 
 #: r2/lib/pages/pages.py:2658
 msgid "friendship"
-msgstr ""
+msgstr "ystävyyssuhde"
 
 #: r2/lib/pages/pages.py:2664
 msgid "add a friend"
@@ -2000,16 +2000,16 @@ msgstr "kaverisi"
 
 #: r2/lib/pages/pages.py:2696
 msgid "blocked users"
-msgstr ""
+msgstr "blokatut käyttäjät"
 
 #: r2/lib/pages/pages.py:2712
 msgid "add approved submitter"
-msgstr ""
+msgstr "lisää hyväksytty lisääjä"
 
 #: r2/lib/pages/pages.py:2716
 #, python-format
 msgid "approved submitters for %(reddit)s"
-msgstr ""
+msgstr "%(reddit)s hyväksytyt käyttäjä "
 
 #: r2/lib/pages/pages.py:2732
 msgid "add moderator"
@@ -2018,7 +2018,7 @@ msgstr "lisää moderaattori"
 #: r2/lib/pages/pages.py:2736
 #, python-format
 msgid "moderators of %(reddit)s"
-msgstr ""
+msgstr "%(reddit)s moderaattorit"
 
 #: r2/lib/pages/pages.py:2759
 msgid "banned users"
@@ -2034,12 +2034,12 @@ msgstr "nykyiset katsojat"
 
 #: r2/lib/pages/pages.py:3731 r2/templates/accountactivitybox.html:24
 msgid "account activity"
-msgstr ""
+msgstr "tilin käyttö"
 
 #: r2/models/builder.py:103
 #, python-format
 msgid "moderator of /r/%(reddit)s, speaking officially"
-msgstr ""
+msgstr "/r/%(reddit)s moderaattorina sanottu"
 
 #: r2/models/builder.py:169
 msgid "label_template"
@@ -2052,7 +2052,7 @@ msgstr ""
 
 #: r2/models/link.py:532
 msgid "approved by a moderator"
-msgstr ""
+msgstr "moderaattorin hyväksymä"
 
 #: r2/models/link.py:805
 msgid "comment score below threshold"
@@ -2060,7 +2060,7 @@ msgstr "kommentin pisteet ovat raja-arvon alapuolella"
 
 #: r2/models/link.py:810
 msgid "blocked user"
-msgstr ""
+msgstr "blokatut käyttäjät"
 
 #: r2/models/link.py:1125
 msgid "comment reply"
@@ -2072,11 +2072,11 @@ msgstr "vastaa viestiin"
 
 #: r2/models/link.py:1150
 msgid "[message from blocked user]"
-msgstr ""
+msgstr "[viesti blokatulta käyttäjältä]"
 
 #: r2/models/link.py:1151
 msgid "[unblock user to see this message]"
-msgstr ""
+msgstr "[poista blokkaus lukeaksesi tämän viestin]"
 
 #: r2/models/mail_queue.py:308
 #, python-format
@@ -2107,48 +2107,48 @@ msgstr "[reddit] resetoi salasanasi"
 
 #: r2/models/mail_queue.py:314
 msgid "[reddit] verify your email address"
-msgstr ""
+msgstr "[reddit] vahvista email-osoitteesi"
 
 #: r2/models/mail_queue.py:315
 msgid "[reddit] your bid has been accepted"
-msgstr ""
+msgstr "[reddit] tarjouksesi on hyväksytty"
 
 #: r2/models/mail_queue.py:316
 msgid "[reddit] your promotion has been accepted"
-msgstr ""
+msgstr "[reddit] mainoksesi on hyväksytty"
 
 #: r2/models/mail_queue.py:317
 msgid "[reddit] your promotion has been rejected"
-msgstr ""
+msgstr "[reddit] mainoksesi on hylätty"
 
 #: r2/models/mail_queue.py:318
 msgid "[reddit] your promotion has been charged"
-msgstr ""
+msgstr "[reddit] mainoksesi on laskutettu"
 
 #: r2/models/mail_queue.py:319
 msgid "[reddit] your promotion is now live"
-msgstr ""
+msgstr "[reddit] mainoksesi on nyt esillä"
 
 #: r2/models/mail_queue.py:320
 msgid "[reddit] your promotion has finished"
-msgstr ""
+msgstr "[reddit] mainoksesi on päättynyt"
 
 #: r2/models/mail_queue.py:321
 msgid "[reddit] your promotion has been created"
-msgstr ""
+msgstr "[reddit] mainoksesi on luotuy"
 
 #: r2/models/mail_queue.py:322
 #, python-format
 msgid "[i18n] translation offer from '%(user)s'"
-msgstr ""
+msgstr "[il8n] käännöstarjous '%(user)s' lta"
 
 #: r2/models/mail_queue.py:323
 msgid "[reddit] hey, nerd!"
-msgstr ""
+msgstr "[reddit] y0 nortti!"
 
 #: r2/models/mail_queue.py:324
 msgid "[reddit] reddit gold activation link"
-msgstr ""
+msgstr "[reddit] reddit kullan aktivointilinkki"
 
 #: r2/models/subreddit.py:945
 msgid "on reddit.com"
@@ -2185,7 +2185,7 @@ msgstr ""
 #: r2/templates/base.htmllite:88
 #, python-format
 msgid "links from %(site)s"
-msgstr "linkkejä saitilta %(site)s"
+msgstr "linkkejä sivulta %(site)s"
 
 #: r2/templates/bookmarklets.html:30
 #, python-format
@@ -2364,19 +2364,19 @@ msgstr "piilota koodi"
 
 #: r2/templates/buttontypes.html:189
 msgid "quite controversial"
-msgstr ""
+msgstr "aika kiistanalainen"
 
 #: r2/templates/buttontypes.html:193
 msgid "uncontroversial"
-msgstr ""
+msgstr "kiistaton"
 
 #: r2/templates/buttontypes.html:195
 msgid "quite uncontroversial"
-msgstr ""
+msgstr "aika kiistaton"
 
 #: r2/templates/buttontypes.html:212
 msgid "Vote on this article"
-msgstr ""
+msgstr "Äänestä tätä artikkelia"
 
 #: r2/templates/buttontypes.html:217
 #, python-format
@@ -2390,15 +2390,15 @@ msgstr ""
 
 #: r2/templates/captcha.html:49
 msgid "(sorry)"
-msgstr ""
+msgstr "(anteeksi)"
 
 #: r2/templates/captcha.html:49
 msgid "are you human?"
-msgstr ""
+msgstr "Oletko ihminen"
 
 #: r2/templates/captcha.html:75
 msgid "human?"
-msgstr "oletko ihminen?"
+msgstr "ihminen?"
 
 #: r2/templates/clickgadget.html:30
 msgid "clear"
@@ -2418,7 +2418,7 @@ msgstr "+"
 
 #: r2/templates/comment.html:86
 msgid "&ndash;"
-msgstr ""
+msgstr "&ndash;"
 
 #: r2/templates/comment.html:92
 msgid "deleted comment from"
