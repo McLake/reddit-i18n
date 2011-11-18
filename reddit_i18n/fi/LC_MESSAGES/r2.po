@@ -2460,7 +2460,7 @@ msgstr ""
 
 #: r2/templates/commentvisitsbox.html:48
 msgid "no highlighting"
-msgstr ""
+msgstr "ei korostusta"
 
 #: r2/templates/createsubreddit.html:47
 msgid "that subreddit doesn't exist, but you can create it here."
@@ -2472,7 +2472,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:55
 msgid "name"
-msgstr ""
+msgstr "nimi"
 
 #: r2/templates/createsubreddit.html:69
 msgid "e.g., slashdot: news for nerds, stuff that matters"
@@ -2481,39 +2481,39 @@ msgstr ""
 #: r2/templates/createsubreddit.html:69 r2/templates/newlink.html:55
 #: r2/templates/promotelinkform.html:257
 msgid "title"
-msgstr ""
+msgstr "otsikko"
 
 #: r2/templates/createsubreddit.html:81
 msgid "500 characters max.  Make them count."
-msgstr ""
+msgstr "500 merkkiä  max. Käytä ne viisaasti."
 
 #: r2/templates/createsubreddit.html:81
 msgid "description"
-msgstr ""
+msgstr "kuvaus"
 
 #: r2/templates/createsubreddit.html:90
 msgid "language"
-msgstr ""
+msgstr "kieli"
 
 #: r2/templates/createsubreddit.html:101
 msgid "type"
-msgstr ""
+msgstr "tyyppi"
 
 #: r2/templates/createsubreddit.html:104
 msgid "public"
-msgstr ""
+msgstr "julkinen"
 
 #: r2/templates/createsubreddit.html:105
 msgid "anyone can view and submit"
-msgstr ""
+msgstr "kaikki voivat katsoa ja lisätä"
 
 #: r2/templates/createsubreddit.html:107
 msgid "restricted"
-msgstr ""
+msgstr "rajoitettu"
 
 #: r2/templates/createsubreddit.html:108
 msgid "anyone can view, but only some are approved to submit links"
-msgstr ""
+msgstr "kaikki voivat katsoa, mutta vain hyväksytyt voivat lisätä linkkejä"
 
 #: r2/templates/createsubreddit.html:110 r2/templates/subreddit.html:93
 msgid "private"
@@ -2521,7 +2521,7 @@ msgstr "yksityinen"
 
 #: r2/templates/createsubreddit.html:111
 msgid "only approved members can view and submit"
-msgstr ""
+msgstr "vain hyväksytyt jäsenet voivat katsoa ja lisätä"
 
 #: r2/templates/createsubreddit.html:117 r2/templates/prefoptions.html:243
 msgid "content options"
@@ -2529,23 +2529,23 @@ msgstr "sisällönhallintavaihtoehdot"
 
 #: r2/templates/createsubreddit.html:120
 msgid "any"
-msgstr ""
+msgstr "kaikki"
 
 #: r2/templates/createsubreddit.html:121
 msgid "any link type is allowed"
-msgstr ""
+msgstr "kaikki linkkityypit hyväksyttyjä"
 
 #: r2/templates/createsubreddit.html:123
 msgid "links only"
-msgstr ""
+msgstr "vain linkkejä"
 
 #: r2/templates/createsubreddit.html:124
 msgid "only links to external sites are allowed"
-msgstr ""
+msgstr "linkkejä vain ulkoisiin sivustoihin"
 
 #: r2/templates/createsubreddit.html:126
 msgid "text posts only"
-msgstr ""
+msgstr "vain tekstipohjaisia viestejä"
 
 #: r2/templates/createsubreddit.html:127
 msgid "only text/self posts are allowed"
@@ -2553,11 +2553,11 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:133
 msgid "other options"
-msgstr ""
+msgstr "muut vaihtoehdot"
 
 #: r2/templates/createsubreddit.html:140
 msgid "viewers must be over eighteen years old"
-msgstr ""
+msgstr "katsojien pitää olla täysi-ikäisiä"
 
 #: r2/templates/createsubreddit.html:148
 msgid "allow this reddit to be shown in the default set"
@@ -2569,7 +2569,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:163
 msgid "domain"
-msgstr ""
+msgstr "verkkotunnus"
 
 #: r2/templates/createsubreddit.html:170
 msgid "make custom CSS styles apply only when accessed from the cname."
@@ -2592,27 +2592,27 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:200 r2/templates/promotelinkform.html:297
 msgid "look and feel"
-msgstr ""
+msgstr "katso ja tunne"
 
 #: r2/templates/createsubreddit.html:203
 msgid "edit the stylesheet"
-msgstr ""
+msgstr "editoi tyylisivua"
 
 #: r2/templates/createsubreddit.html:207
 msgid "leaves this page"
-msgstr ""
+msgstr "poistuu sivulta"
 
 #: r2/templates/createsubreddit.html:216
 msgid "upload header image"
-msgstr ""
+msgstr "lataa ylätunnisteen kuva"
 
 #: r2/templates/createsubreddit.html:226
 msgid "restore default header"
-msgstr ""
+msgstr "palauta oletusarvoinen ylätunniste"
 
 #: r2/templates/createsubreddit.html:244
 msgid "sponsorship"
-msgstr ""
+msgstr "sponsori"
 
 #: r2/templates/createsubreddit.html:256
 msgid "name this campaign (for traffic)"
@@ -2620,7 +2620,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:265
 msgid "enter link url here"
-msgstr ""
+msgstr "lisää linkki tähän"
 
 #: r2/templates/createsubreddit.html:270
 msgid "upload sponsorship image"
@@ -2662,15 +2662,15 @@ msgstr ""
 
 #: r2/templates/flairlist.html:31
 msgid "go"
-msgstr ""
+msgstr "mene"
 
 #: r2/templates/flairlist.html:35
 msgid "back to full list"
-msgstr ""
+msgstr "takaisin täyteen listaukseen"
 
 #: r2/templates/flairlist.html:38
 msgid "back to the beginning"
-msgstr ""
+msgstr "takaisin alkuun"
 
 #: r2/templates/flairlist.html:46 r2/templates/flairtemplatelist.html:35
 msgid "flair text"
@@ -2678,7 +2678,7 @@ msgstr ""
 
 #: r2/templates/flairlist.html:47 r2/templates/flairtemplatelist.html:36
 msgid "css class"
-msgstr ""
+msgstr "CSS-luokka"
 
 #: r2/templates/flairlistrow.html:45 r2/templates/flairselector.html:48
 #: r2/templates/frametoolbar.html:199 r2/templates/prefupdate.html:98
@@ -2718,7 +2718,7 @@ msgstr ""
 
 #: r2/templates/flairpane.html:55
 msgid "left"
-msgstr ""
+msgstr "vasen"
 
 #: r2/templates/flairpane.html:56
 msgid "position flair to the left of the username"
@@ -2726,7 +2726,7 @@ msgstr ""
 
 #: r2/templates/flairpane.html:58
 msgid "right"
-msgstr ""
+msgstr "oikoa"
 
 #: r2/templates/flairpane.html:59
 msgid "position flair to the right of the username"
@@ -2746,7 +2746,7 @@ msgstr ""
 
 #: r2/templates/flairtemplatelist.html:34
 msgid "user can edit?"
-msgstr ""
+msgstr "käyttäjä voi editoida?"
 
 #: r2/templates/flairtemplatelist.html:49
 msgid "clear all flair templates"
@@ -2832,15 +2832,15 @@ msgstr "avaa kommenttipaneeli"
 
 #: r2/templates/gold.html:88
 msgid "Buy for yourself, as an ongoing subscription"
-msgstr ""
+msgstr "Osta jatkuvana tilauksena"
 
 #: r2/templates/gold.html:90
 msgid "Buy for yourself, as a one-time purchase"
-msgstr ""
+msgstr "Osta kertatilauksena"
 
 #: r2/templates/gold.html:92
 msgid "Give reddit gold to someone else"
-msgstr ""
+msgstr "Anna reddit kultaa"
 
 #: r2/templates/gold.html:94
 msgid "Buy reddit gold \"creddits\""
@@ -2848,27 +2848,27 @@ msgstr ""
 
 #: r2/templates/gold.html:102
 msgid "$3.99 / month"
-msgstr ""
+msgstr "$3.99 / kuukaudessa"
 
 #: r2/templates/gold.html:103
 msgid "$29.99 / year (which works out to just $2.50 / month!)"
-msgstr ""
+msgstr "$29.99 / vuodessa (se on vain $ 2.50 / kuukaudessa!)"
 
 #: r2/templates/gold.html:105 r2/templates/subreddit.html:64
 msgid "subscribe"
-msgstr ""
+msgstr "tilaa"
 
 #: r2/templates/gold.html:111
 msgid "How many months?"
-msgstr ""
+msgstr "Kuinka monta kuukautta"
 
 #: r2/templates/gold.html:113 r2/templates/gold.html:174
 msgid "buy"
-msgstr ""
+msgstr "osta"
 
 #: r2/templates/gold.html:119
 msgid "How much gold do you wish to bestow?"
-msgstr ""
+msgstr "Kuinka paljon kultaa haluat sijoittaa?"
 
 #: r2/templates/gold.html:130
 #, python-format
@@ -2879,27 +2879,27 @@ msgstr ""
 
 #: r2/templates/gold.html:137
 msgid "To whom are you giving said gold?"
-msgstr ""
+msgstr "Kenelle lahjoitat kullan?"
 
 #: r2/templates/gold.html:148
 msgid "Do you want them to know it came from you?"
-msgstr ""
+msgstr "Haluatko vastaanottajan tietävän keneltä se tuli?"
 
 #: r2/templates/gold.html:150
 msgid "yes, include my username"
-msgstr ""
+msgstr "kyllä, lisää käyttäjänimeni"
 
 #: r2/templates/gold.html:154
 msgid "no, make it anonymous"
-msgstr ""
+msgstr "ei, lahjoita ilman nimeä"
 
 #: r2/templates/gold.html:160
 msgid "Gift message (optional):"
-msgstr ""
+msgstr "Viesti (vapaaehtoinen):"
 
 #: r2/templates/gold.html:165 r2/templates/goldpayment.html:50
 msgid "give"
-msgstr ""
+msgstr "anna"
 
 #: r2/templates/gold.html:172
 msgid ""
@@ -2909,19 +2909,19 @@ msgstr ""
 
 #: r2/templates/goldpayment.html:37
 msgid "The following gift note will be attached:"
-msgstr ""
+msgstr "Tämä viesti lisätään lahjaan:"
 
 #: r2/templates/goldpayment.html:54
 msgid "Please select a payment method."
-msgstr ""
+msgstr "Valitse maksutapa"
 
 #: r2/templates/goldpayment.html:77
 msgid "Google Checkout"
-msgstr ""
+msgstr "Google Checkout"
 
 #: r2/templates/goldpayment.html:89
 msgid "PayPal"
-msgstr ""
+msgstr "PayPal"
 
 #: r2/templates/goldpayment.html:93
 msgid ""
@@ -2993,31 +2993,31 @@ msgstr ""
 
 #: r2/templates/linkontrial.html:44
 msgid "reddit's spam filter needs your help!"
-msgstr ""
+msgstr "spam filtterimme tarvitsee apuasi!"
 
 #: r2/templates/linkontrial.html:51
 msgid "how would you classify this link?"
-msgstr ""
+msgstr "kuinka luokittelisit tämän linkin?"
 
 #: r2/templates/linkontrial.html:66
 msgid "off-topic / spam"
-msgstr ""
+msgstr "off-topic / spam"
 
 #: r2/templates/linkontrial.html:67
 msgid "kosher"
-msgstr ""
+msgstr "OK"
 
 #: r2/templates/linkontrial.html:70
 msgid "thanks for voting!"
-msgstr ""
+msgstr "kiitos äänestäsi!"
 
 #: r2/templates/linkontrial.html:73 r2/templates/spotlightlisting.html:71
 msgid "Click here for more info."
-msgstr ""
+msgstr "Lisätietoa klikkaamalla tästä"
 
 #: r2/templates/linkontrial.html:77
 msgid "those arrows are only for show; they don't actually do anything."
-msgstr ""
+msgstr "nuo nolet ovat aivan turhia"
 
 #: r2/templates/listing.html:38
 msgid "view more:"
@@ -3131,7 +3131,7 @@ msgstr ""
 
 #: r2/templates/messagecompose.html:63
 msgid "subject"
-msgstr ""
+msgstr "otsikko"
 
 #: r2/templates/morechildren.html:38
 msgid "load more comments"
@@ -3154,19 +3154,19 @@ msgstr "jatka samasta viestiketjusta"
 #: r2/templates/newlink.html:32
 #, python-format
 msgid "submit to %(sr)s"
-msgstr ""
+msgstr "lisää %(sr)s"
 
 #: r2/templates/newlink.html:32
 msgid "reddit"
-msgstr ""
+msgstr "reddit"
 
 #: r2/templates/newlink.html:64 r2/templates/promotelinkform.html:269
 msgid "url"
-msgstr ""
+msgstr "url"
 
 #: r2/templates/newlink.html:74
 msgid "suggest title"
-msgstr ""
+msgstr "ehdota otsikkoa"
 
 #: r2/templates/newlink.html:83 r2/templates/paymentform.html:115
 #: r2/templates/paymentform.html:121 r2/templates/sharelink.html:36
@@ -3176,11 +3176,11 @@ msgstr "(valinnainen)"
 
 #: r2/templates/newlink.html:83
 msgid "text"
-msgstr ""
+msgstr "teksti"
 
 #: r2/templates/newlink.html:94
 msgid "choose a subreddit"
-msgstr ""
+msgstr "valitse subreddit"
 
 #: r2/templates/oauth2authorization.html:28
 #, python-format
@@ -3201,11 +3201,11 @@ msgstr ""
 
 #: r2/templates/oauth2authorization.html:43
 msgid "Allow"
-msgstr ""
+msgstr "Hyväksy"
 
 #: r2/templates/oauth2authorization.html:44
 msgid "Decline"
-msgstr ""
+msgstr "Torju"
 
 #: r2/templates/optout.html:26
 #, python-format
@@ -3266,7 +3266,7 @@ msgstr "anna käyttäjänimesi alapuolelle saadaksesi kirjautumistietosi"
 
 #: r2/templates/password.html:33
 msgid "password reset link expired. please try again"
-msgstr ""
+msgstr "salasanan resetointilinkki vanhentunut. yritä uudelleen"
 
 #: r2/templates/password.html:45
 msgid "email me"
@@ -3274,32 +3274,32 @@ msgstr "lähetä minulle sähköposti"
 
 #: r2/templates/paymentform.html:34
 msgid "set up payment for this link"
-msgstr ""
+msgstr "aseta maksu tälle linkille"
 
 #: r2/templates/paymentform.html:45
 #, python-format
 msgid "Your current bid is $%(bid)s"
-msgstr ""
+msgstr "Tämänhetkinen tarjouksesi on $%(bid)s"
 
 #: r2/templates/paymentform.html:48
 msgid "(total for the duration provided)"
-msgstr ""
+msgstr "(kokonaissumma kestoajalle)"
 
 #: r2/templates/paymentform.html:53
 msgid "Please pick your credit card:"
-msgstr ""
+msgstr "Valitse luottokorttisi"
 
 #: r2/templates/paymentform.html:55
 msgid "select..."
-msgstr ""
+msgstr "valitse..."
 
 #: r2/templates/paymentform.html:61
 msgid "create a new one..."
-msgstr ""
+msgstr "luo uusi..."
 
 #: r2/templates/paymentform.html:66
 msgid "please create a new payment profile"
-msgstr ""
+msgstr "luo uusi maksuprofiili"
 
 #: r2/templates/paymentform.html:70
 msgid ""
@@ -3309,63 +3309,63 @@ msgstr ""
 
 #: r2/templates/paymentform.html:113
 msgid "first name"
-msgstr ""
+msgstr "etunimi"
 
 #: r2/templates/paymentform.html:114
 msgid "last name"
-msgstr ""
+msgstr "sukunimi"
 
 #: r2/templates/paymentform.html:115
 msgid "company"
-msgstr ""
+msgstr "yritys"
 
 #: r2/templates/paymentform.html:116
 msgid "address"
-msgstr ""
+msgstr "osoite"
 
 #: r2/templates/paymentform.html:117
 msgid "city"
-msgstr ""
+msgstr "kaupunki"
 
 #: r2/templates/paymentform.html:118
 msgid "state"
-msgstr ""
+msgstr "lääni"
 
 #: r2/templates/paymentform.html:119
 msgid "zip"
-msgstr ""
+msgstr "postinumero"
 
 #: r2/templates/paymentform.html:120
 msgid "country"
-msgstr ""
+msgstr "maa"
 
 #: r2/templates/paymentform.html:121
 msgid "phone"
-msgstr ""
+msgstr "puhelin"
 
 #: r2/templates/paymentform.html:122
 msgid "card number"
-msgstr ""
+msgstr "kortin numero"
 
 #: r2/templates/paymentform.html:122
 msgid "(14-17 digits)"
-msgstr ""
+msgstr "(14-17 numeroa)"
 
 #: r2/templates/paymentform.html:123
 msgid "expiration date"
-msgstr ""
+msgstr "kortti voimassa"
 
 #: r2/templates/paymentform.html:124
 msgid "CCV"
-msgstr ""
+msgstr "CCV"
 
 #: r2/templates/paymentform.html:124
 msgid "(3 or 4 digits)"
-msgstr ""
+msgstr "(3 tai 4 numeroa)"
 
 #: r2/templates/paymentform.html:181
 msgid "authorize payment"
-msgstr ""
+msgstr "vahvista maksu"
 
 #: r2/templates/paymentform.html:184 r2/templates/printablebuttons.html:159
 #: r2/templates/printablebuttons.html:193
@@ -3379,11 +3379,11 @@ msgstr ""
 
 #: r2/templates/permalinkmessage.html:26
 msgid "view the rest of the comments"
-msgstr ""
+msgstr "katso loput kommentit"
 
 #: r2/templates/prefdelete.html:28
 msgid "delete your reddit account"
-msgstr ""
+msgstr "poista reddit tunnuksesi"
 
 #: r2/templates/prefdelete.html:31
 msgid "deleting..."
@@ -3391,7 +3391,7 @@ msgstr "poistetaan..."
 
 #: r2/templates/prefdelete.html:34
 msgid "sorry to see you go!"
-msgstr ""
+msgstr "meidän tulee sinua ikävä!"
 
 #: r2/templates/prefdelete.html:36
 msgid ""
@@ -3403,27 +3403,27 @@ msgstr ""
 
 #: r2/templates/prefdelete.html:45
 msgid "why are you deleting this account?"
-msgstr ""
+msgstr "miksi poistat tilisi?"
 
 #: r2/templates/prefdelete.html:52
 msgid "for security purposes"
-msgstr ""
+msgstr "turvallisuussyistä"
 
 #: r2/templates/prefdelete.html:52
 msgid "account credentials"
-msgstr ""
+msgstr "tunnukset"
 
 #: r2/templates/prefdelete.html:63
 msgid "confirmation"
-msgstr ""
+msgstr "vahvistus"
 
 #: r2/templates/prefdelete.html:66
 msgid "I understand that deleted accounts are not recoverable."
-msgstr ""
+msgstr "ymmärrän, että poistettua tunnusta ei voi palauttaa."
 
 #: r2/templates/prefdelete.html:73
 msgid "delete account"
-msgstr ""
+msgstr "poista tunnus"
 
 #: r2/templates/preffeeds.html:29
 msgid "Private RSS feeds"
@@ -3532,11 +3532,11 @@ msgstr "näytä pikkukuvat redditin media-asetuksien mukaan."
 
 #: r2/templates/prefoptions.html:119
 msgid "make safe(r) for work "
-msgstr ""
+msgstr "ei NSFW"
 
 #: r2/templates/prefoptions.html:122
 msgid "(Don't show thumbnails next to anything labeled NSFW)"
-msgstr ""
+msgstr "(Älä näytä pikkukuvia minkään NSFW:n vieressä)"
 
 #: r2/templates/prefoptions.html:125
 msgid "to enable thumbnails, disable compressed link display"
@@ -3575,7 +3575,7 @@ msgstr "älä näytä linkkejä inhoamisen jälkeen"
 
 #: r2/templates/prefoptions.html:150 r2/templates/prefoptions.html:154
 msgid "(except my own)"
-msgstr ""
+msgstr "(vain omani)"
 
 #: r2/templates/prefoptions.html:152
 msgid "don't show links after i've disliked them"
@@ -3631,7 +3631,7 @@ msgstr "näytä %(num)s kommenttia oletuksena"
 
 #: r2/templates/prefoptions.html:201
 msgid "the smaller the number, the faster your comments pages will load"
-msgstr ""
+msgstr "mitä pienempi numero, sitä nopeammin kommenttisi latautuvat"
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
@@ -3710,15 +3710,15 @@ msgstr "tee äänistäni julkisia"
 #: r2/templates/prefoptions.html:264
 #, python-format
 msgid "let everyone see %(link1)s and %(link2)s"
-msgstr ""
+msgstr "julkista %(link1)s ja %(link2)s kaikille"
 
 #: r2/templates/prefoptions.html:267
 msgid "allow my data to be used for research purposes"
-msgstr ""
+msgstr "hyväksy tietojeni käyttö tutkimustarkoituksiin"
 
 #: r2/templates/prefoptions.html:277
 msgid "don't allow search engines to index my user profile"
-msgstr ""
+msgstr "älä anna tietojani julkisiin hakukoneisiin"
 
 #: r2/templates/prefoptions.html:285
 msgid "load core JS libraries from reddit servers"
@@ -3738,7 +3738,7 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:304
 msgid "show sponsored links"
-msgstr ""
+msgstr "näytä mainoslinkit"
 
 #: r2/templates/prefoptions.html:305
 msgid "the blue advertisements that sometimes appear on the top of the page"
@@ -3780,7 +3780,7 @@ msgstr "vaihda sähköpostiosoite"
 
 #: r2/templates/prefupdate.html:45
 msgid "not set"
-msgstr ""
+msgstr "ei asetettu"
 
 #: r2/templates/prefupdate.html:48
 msgid "verified"
@@ -3792,7 +3792,7 @@ msgstr "odotetaan vahvistusta"
 
 #: r2/templates/prefupdate.html:52
 msgid "click to resend"
-msgstr ""
+msgstr "klikkaa uudelleenlähettääksesi"
 
 #: r2/templates/prefupdate.html:54
 msgid "unverified"
@@ -3800,19 +3800,19 @@ msgstr "vahvistamaton"
 
 #: r2/templates/prefupdate.html:55
 msgid "click to verify"
-msgstr ""
+msgstr "klikkaa vahvistaaksesi"
 
 #: r2/templates/prefupdate.html:65
 msgid "(required)"
-msgstr ""
+msgstr "(vaaditaan)"
 
 #: r2/templates/prefupdate.html:65
 msgid "current password"
-msgstr ""
+msgstr "nykyinen salasana"
 
 #: r2/templates/prefupdate.html:80 r2/templates/resetpassword.html:38
 msgid "new password"
-msgstr ""
+msgstr "uusi salasana"
 
 #: r2/templates/prefupdate.html:96
 msgid "send verification email"
@@ -3820,11 +3820,11 @@ msgstr "lähetä vahvistusviesti"
 
 #: r2/templates/printablebuttons.html:38
 msgid "indict"
-msgstr ""
+msgstr "syyttää"
 
 #: r2/templates/printablebuttons.html:38
 msgid "indicted"
-msgstr ""
+msgstr "syytteeseen"
 
 #: r2/templates/printablebuttons.html:45 r2/templates/trophycase.html:47
 #: r2/templates/trophycase.html:67 r2/templates/usertableitem.html:55
@@ -3839,13 +3839,13 @@ msgstr "poistettu"
 
 #: r2/templates/printablebuttons.html:51
 msgid "approve"
-msgstr ""
+msgstr "hyväksy"
 
 #: r2/templates/printablebuttons.html:52
 #: r2/templates/printablebuttons.html:143
 #: r2/templates/subredditinfobar.html:82
 msgid "approved"
-msgstr ""
+msgstr "hyväksytty"
 
 #: r2/templates/printablebuttons.html:58
 msgid "report"
@@ -3853,19 +3853,19 @@ msgstr "ilmoita"
 
 #: r2/templates/printablebuttons.html:62
 msgid "nsfw"
-msgstr ""
+msgstr "k-18"
 
 #: r2/templates/printablebuttons.html:62
 msgid "marked"
-msgstr ""
+msgstr "merkitty"
 
 #: r2/templates/printablebuttons.html:65
 msgid "un-nsfw"
-msgstr ""
+msgstr "ei-NSFW"
 
 #: r2/templates/printablebuttons.html:65
 msgid "unmarked"
-msgstr ""
+msgstr "ei valittu"
 
 #: r2/templates/printablebuttons.html:78
 msgid "distinguishing..."
@@ -3882,22 +3882,22 @@ msgstr "erottuiko tämä joukosta?"
 #: r2/templates/printablebuttons.html:123
 #, python-format
 msgid "confirm %(obj)s removal"
-msgstr ""
+msgstr "vahvista %(obj)s poisto"
 
 #: r2/templates/printablebuttons.html:126
 #, python-format
 msgid "remove %(obj)s"
-msgstr ""
+msgstr "poista %(obj)s""
 
 #: r2/templates/printablebuttons.html:131
 #, python-format
 msgid "reapprove %(obj)s"
-msgstr ""
+msgstr "uudelleenhyväksy %(obj)s""
 
 #: r2/templates/printablebuttons.html:134
 #, python-format
 msgid "approve %(obj)s"
-msgstr ""
+msgstr "hyväksy %(obj)s""
 
 #: r2/templates/printablebuttons.html:164
 #: r2/templates/printablebuttons.html:212 r2/templates/sharelink.html:98
@@ -3926,16 +3926,16 @@ msgstr "liikenne"
 
 #: r2/templates/printablebuttons.html:230
 msgid "questionable submission; you should remove it or approve it"
-msgstr ""
+msgstr "epäilyttävä lisäys, hyväksy tai poista"
 
 #: r2/templates/printablebuttons.html:232
 msgid "deputy opinion:"
-msgstr ""
+msgstr "toissijainen mielipide"
 
 #: r2/templates/printablebuttons.html:235
 #, python-format
 msgid "%d spam"
-msgstr ""
+msgstr "%d spam"
 
 #: r2/templates/printablebuttons.html:241
 #, python-format
@@ -3954,7 +3954,7 @@ msgstr "asiayhteys"
 
 #: r2/templates/printablebuttons.html:267
 msgid "full comments"
-msgstr ""
+msgstr "täydet kommentit"
 
 #: r2/templates/printablebuttons.html:277
 #: r2/templates/printablebuttons.html:284
@@ -3968,11 +3968,11 @@ msgstr "vastaa"
 
 #: r2/templates/printablebuttons.html:326
 msgid "block user"
-msgstr ""
+msgstr "blokkaa käyttäjä"
 
 #: r2/templates/printablebuttons.html:326
 msgid "blocked"
-msgstr ""
+msgstr "blokattu"
 
 #: r2/templates/printablebuttons.html:330
 msgid "mark unread"
@@ -4004,11 +4004,11 @@ msgstr "kommenttikarma"
 
 #: r2/templates/profilebar.html:110
 msgid "of reddit gold remaining"
-msgstr ""
+msgstr "reddit kultaa jäljellä"
 
 #: r2/templates/profilebar.html:118
 msgid "Recurring Paypal subscription"
-msgstr ""
+msgstr "Toistuva PayPal tilaus"
 
 #: r2/templates/profilebar.html:139 r2/templates/usertableitem.html:50
 msgid "send message"
@@ -4213,15 +4213,15 @@ msgstr ""
 
 #: r2/templates/searchbar.html:51
 msgid "satisfied?"
-msgstr ""
+msgstr "tyytyväinen?"
 
 #: r2/templates/searchbar.html:55
 msgid "thanks for your feedback!"
-msgstr ""
+msgstr "kiitos palautteestasi!"
 
 #: r2/templates/searchform.html:34
 msgid "find things posted in {name} only"
-msgstr ""
+msgstr "etsi viestit vain käyttäjältä {nimi}"
 
 #: r2/templates/searchform.html:36
 msgid "return things submitted by {username} only"
@@ -4364,11 +4364,11 @@ msgstr "%(time)s yhteisönä"
 
 #: r2/templates/subreddit.html:64
 msgid "unsubscribe"
-msgstr ""
+msgstr "peruuta tilaus"
 
 #: r2/templates/subreddit.html:85 r2/templates/subreddit.html:86
 msgid "not approved"
-msgstr ""
+msgstr "ei hyväksytty"
 
 #: r2/templates/subreddit.html:97
 msgid "over18"
@@ -4491,7 +4491,7 @@ msgstr "linkki pikkukuvan kanssa"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
-msgstr ""
+msgstr "kiitos tilauksesta"
 
 #: r2/templates/thanks.html:39
 msgid "enter your confirmation code below to claim your gift creddits"
@@ -4499,7 +4499,7 @@ msgstr ""
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr ""
+msgstr "kirjoita vahvistuskoodisi aktivoidaksesi reddit kullan"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
@@ -4507,7 +4507,7 @@ msgstr ""
 
 #: r2/templates/thanks.html:46
 msgid "You're already a reddit gold subscriber."
-msgstr ""
+msgstr "olet jo reddit kullan tilaaja"
 
 #: r2/templates/thanks.html:49
 msgid ""
@@ -4517,7 +4517,7 @@ msgstr ""
 
 #: r2/templates/thanks.html:62
 msgid "claim"
-msgstr ""
+msgstr "lunasta"
 
 #: r2/templates/trophycase.html:74
 msgid "dust"
@@ -4554,19 +4554,19 @@ msgstr "erikoispalkinnot"
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
-msgstr ""
+msgstr "viimeaikaiset tapahtumasi"
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "IP-osoite"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "Paikka"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "Viimeksi katsottu"
 
 #: r2/templates/userlist.html:37
 msgid "add"
@@ -4574,7 +4574,7 @@ msgstr "lisää"
 
 #: r2/templates/usertableitem.html:61
 msgid "can't remove"
-msgstr ""
+msgstr "ei voi poistaa"
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
@@ -4616,7 +4616,7 @@ msgstr "vain jotkin kielet"
 
 #: r2/templates/utils.html:295
 msgid "Type: "
-msgstr ""
+msgstr "tyyppi:"
 
 #: r2/templates/utils.html:305
 msgid "uploading"
@@ -4628,7 +4628,7 @@ msgstr "lähetä"
 
 #: r2/templates/utils.html:516
 msgid "popular choices"
-msgstr ""
+msgstr "suositut valinnat"
 
 #: r2/templates/widgetdemopanel.html:111
 #, python-format
